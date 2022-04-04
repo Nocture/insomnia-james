@@ -1,0 +1,25 @@
+_id: req_724a2e0f5b1b4990a35b8c433672de0d
+type: Request
+parentId: fld_4bcd873abe16438b8834669e25e87e75
+modified: 1648567317498
+created: 1648567212742
+url: https://drexlish.controlport.co.uk/api/v1/client/805/stock-report/debug?recalculate=0&period_length=5
+name: Stock debug tool
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_fad3e106f0be4ba1bb82a1547111eec2
+    name: user
+    value: "1548"
+    description: ""
+authentication: {}
+metaSortKey: -1648567212742
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
