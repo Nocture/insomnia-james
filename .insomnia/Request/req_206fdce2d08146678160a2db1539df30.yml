@@ -1,0 +1,25 @@
+_id: req_206fdce2d08146678160a2db1539df30
+type: Request
+parentId: fld_9cae14ef4a194107a32d94fccfd9da9a
+modified: 1648012191630
+created: 1647968341211
+url: https://066a3dab720f2b377bf66bf663f5d98e:4274d3eaa92cf18b22377fffb99bb063@jamesandjamesfulfilment.myshopify.com/admin/api/2021-04/deprecated_api_calls.json
+name: Deprecated API Calls
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_4440b582318c47b4913a668147ac917a
+    name: X-Shopify-Acces-Token
+    value: access_token
+    description: ""
+authentication: {}
+metaSortKey: -1647968341211
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
